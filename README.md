@@ -1,9 +1,9 @@
-# 🛡 AI-Enhanced Intrusion Detection System (IDS)  
+# AI-Enhanced Intrusion Detection System (IDS)  
 ### Cybersecurity Threat Detection Using Machine Learning
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 In an increasingly interconnected digital landscape, the security of organizational networks and sensitive data is of paramount importance. This project focuses on the development of an *AI-Enhanced Intrusion Detection System* that leverages machine learning to detect, classify, and respond to network intrusions with high accuracy.
 
@@ -12,7 +12,7 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 ---
 
 
-## 🛠 *Technologies Used*
+## *Technologies Used*
 
 - *Python 3.10+*
 - *Flask (Backend Web Framework)*
@@ -24,7 +24,7 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 
 ---
 
-## 🧠 *Model Details*
+## *Model Details*
 
 The Intrusion Detection System uses a *Random Forest Classifier* trained on a preprocessed and balanced network intrusion dataset. The model is enhanced with *SMOTE* to handle class imbalance.
 
@@ -37,7 +37,7 @@ random_forest_model_4_features.joblib
 
 ---
 
-## 🗂 *Project Directory Structure*
+## *Project Directory Structure*
 
 ```bash
 AI-ENHANCED-INTRUSION-DETECTION/
@@ -56,7 +56,7 @@ AI-ENHANCED-INTRUSION-DETECTION/
 
 ---
 
-## ⚙ *Installation & Setup*
+## *Installation & Setup*
 
 ### Using Conda (Recommended)
 
