@@ -1,4 +1,4 @@
-# AI-Enhanced Intrusion Detection System (IDS)  
+# AI-Enhanced Intrusion Detection System 
 ### Cybersecurity Threat Detection Using Machine Learning
 
 ---
