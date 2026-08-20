@@ -1,7 +1,7 @@
 # AI-Enhanced Intrusion Detection System 
 ### Cybersecurity Threat Detection Using Machine Learning
 
----
+----
 
 ## Project Description
 
@@ -34,7 +34,6 @@ bash
 ```
 random_forest_model_4_features.joblib
 ```
-
 ---
 
 ## *Project Directory Structure*
