@@ -57,7 +57,7 @@ AI-ENHANCED-INTRUSION-DETECTION/
 
 ## *Installation & Setup*
 
-### Using Conda (Recommended)
+### Using Cond
 
 ```bash
 conda create -n cyber_ids python=3.10
